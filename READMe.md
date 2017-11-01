@@ -33,92 +33,28 @@ library('readr')
 
 ``` r
 library('dplyr')
-```
-
-    ## Warning: package 'dplyr' was built under R version 3.4.2
-
-``` r
 library('tibble')
-```
-
-    ## Warning: package 'tibble' was built under R version 3.4.2
-
-``` r
 library('tidyr')
-```
-
-    ## Warning: package 'tidyr' was built under R version 3.4.2
-
-``` r
 library('stringr')
-```
-
-    ## Warning: package 'stringr' was built under R version 3.4.2
-
-``` r
 library('forcats')
-```
-
-    ## Warning: package 'forcats' was built under R version 3.4.2
-
-``` r
 library('tidytext')
-```
-
-    ## Warning: package 'tidytext' was built under R version 3.4.2
-
-``` r
 library('SnowballC')
 ```
-
-    ## Warning: package 'SnowballC' was built under R version 3.4.1
 
 ### Data Visualization Libraries
 
 ``` r
 library('ggplot2') # visualization
-library('ggthemes') # visualization
-```
-
-    ## Warning: package 'ggthemes' was built under R version 3.4.2
-
-``` r
 library('scales') # visualization
-```
-
-    ## Warning: package 'scales' was built under R version 3.4.2
-
-``` r
 library('grid') # visualisation
 library('gridExtra') # visualisation
-```
-
-    ## Warning: package 'gridExtra' was built under R version 3.4.2
-
-``` r
 library('corrplot') # visualisation
-```
-
-    ## Warning: package 'corrplot' was built under R version 3.4.2
-
-``` r
 library('ggfortify') # visualisation
 library('ggraph') # visualisation
-```
-
-    ## Warning: package 'ggraph' was built under R version 3.4.2
-
-``` r
 library('igraph') # visualisation
-```
-
-    ## Warning: package 'igraph' was built under R version 3.4.2
-
-``` r
 library('wordcloud') # test visualisation
 ```
 
-    ## Warning: package 'wordcloud' was built under R version 3.4.2
 
 Reading the data into R
 =======================
